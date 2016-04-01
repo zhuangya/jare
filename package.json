@@ -1,0 +1,23 @@
+{
+  "name": "jare",
+  "version": "0.0.1",
+  "description": "jare.io cdn prefix",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/jare.git"
+  },
+  "keywords": [
+    "jare",
+    "cdn"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/jare/issues"
+  },
+  "homepage": "https://github.com/zhuangya/jare#readme"
+}

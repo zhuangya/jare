@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/zhuangya/jare/issues"
   },
-  "homepage": "https://github.com/zhuangya/jare#readme"
+  "homepage": "https://github.com/zhuangya/jare#readme",
+  "dependencies": {
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "ava": "^0.13.0"
+  }
 }

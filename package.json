@@ -1,6 +1,6 @@
 {
   "name": "jare",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "jare.io cdn prefix",
   "main": "index.js",
   "scripts": {

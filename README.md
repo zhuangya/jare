@@ -1,5 +1,7 @@
 #jare
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/jare.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Dependency Status][david-image]][david-url]
